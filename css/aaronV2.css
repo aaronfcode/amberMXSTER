@@ -1,0 +1,21 @@
+* {
+  font-family: Courier New, Lucida Console, monospace;
+  color: #665544;
+  text-align: center;}
+body{
+  background-color: #E7E7D8;}
+#nav, #feature, .article, #footer {
+  background-color: #efefef;
+  margin-top: 20px;
+  padding: 10px 0px 5px 0px;}
+#nav, #footer{
+  background-color: #13B28E;}
+#feature, .article {
+  background-color: #efefef;
+  height: 100px;
+  border: 1px solid #000000;}
+/*.article{
+  height: 50px;}*/
+li {
+  display: inline;
+  padding: 5px;}

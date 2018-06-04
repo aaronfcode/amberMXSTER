@@ -1,5 +1,5 @@
 * {
-  font-family: Arial, Verdana, sans-serif;
+  font-family: "Courier New", "Lucida Console", monospace;
   color: #665544;
   text-align: center;}
 body {
@@ -19,9 +19,12 @@ li {
   display: inline;
   padding: 0.5em;}
 #nav, #footer {
-  background-color: #efefef;
+  background-color: #13B28E;
   padding: 0.5em 0;}
 #feature, .article {
   height: 10em;
   margin-bottom: 1em;
   background-color: #efefef;}
+a:hover{
+  background-color: white;
+}
